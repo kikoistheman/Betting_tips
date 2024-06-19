@@ -15,7 +15,7 @@ The Betting Tips GUI Application is a Python-based desktop application that prov
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/betting-tips-gui.git](https://github.com/kikoistheman/Betting_tips.git
+    git clone https://github.com/kikoistheman/Betting_tips.git
     cd betting-tips-gui
     ```
 
