@@ -1,0 +1,13 @@
+tkinter
+selenium
+youtube-transcript-api
+requests
+beautifulsoup4
+langchain-core
+langchain-groq
+torch
+transformers
+arabic-reshaper
+python-bidi
+deep-translator
+ 
